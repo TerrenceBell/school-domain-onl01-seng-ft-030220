@@ -12,4 +12,4 @@ class School
       @roster[grade] = [name]
       @rost
   end
-end
+end if @roster[grade]
