@@ -15,5 +15,6 @@ class School
       @roster[grade] = [name]
   end
 end 
-def grade
+def grade(grade)
+  
 end
